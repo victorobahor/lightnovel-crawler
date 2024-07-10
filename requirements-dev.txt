@@ -3,3 +3,4 @@ pyinstaller
 cairosvg
 win_unicode_console
 setuptools
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
